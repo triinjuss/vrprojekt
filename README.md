@@ -26,4 +26,3 @@ template: `
   </Scene>
 `
 ```
-# vrprojekt
